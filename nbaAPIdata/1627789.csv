@@ -1,0 +1,8 @@
+Name,Team,GROUP_SET,GROUP_VALUE,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,EFG_PCT,BLKA,PCT_AST_2PM,PCT_UAST_2PM,PCT_AST_3PM,PCT_UAST_3PM,PCT_AST_FGM,PCT_UAST_FGM,FGM_RANK,FGA_RANK,FG_PCT_RANK,FG3M_RANK,FG3A_RANK,FG3_PCT_RANK,EFG_PCT_RANK,BLKA_RANK,PCT_AST_2PM_RANK,PCT_UAST_2PM_RANK,PCT_AST_3PM_RANK,PCT_UAST_3PM_RANK,PCT_AST_FGM_RANK,PCT_UAST_FGM_RANK,CFID,CFPARAMS
+Luwawu-Cabarrot,ATL,Shot Area,Restricted Area,25,49,0.51,0,0,0.0,0.51,4,0.76,0.24,0.0,0.0,0.76,0.24,1,2,1,4,4,4,2,7,1,1,4,2,1,1,49,Restricted Area
+Luwawu-Cabarrot,ATL,Shot Area,In The Paint (Non-RA),3,9,0.333,0,0,0.0,0.333,2,0.333,0.667,0.0,0.0,0.333,0.667,5,5,5,4,4,4,5,5,2,2,4,2,5,2,49,In The Paint (Non-RA)
+Luwawu-Cabarrot,ATL,Shot Area,Mid-Range,2,6,0.333,0,0,0.0,0.333,1,0.5,0.5,0.0,0.0,0.5,0.5,6,6,6,4,4,4,6,4,2,3,4,2,5,3,49,Mid-Range
+Luwawu-Cabarrot,ATL,Shot Area,Left Corner 3,14,21,0.667,14,21,0.667,1.0,0,0.0,0.0,1.0,0.0,1.0,0.0,3,4,3,2,3,2,3,1,4,4,2,2,3,5,49,Left Corner 3
+Luwawu-Cabarrot,ATL,Shot Area,Right Corner 3,13,37,0.351,13,37,0.351,0.527,2,0.0,0.0,1.0,0.0,1.0,0.0,4,3,4,3,2,3,4,5,4,4,2,2,3,5,49,Right Corner 3
+Luwawu-Cabarrot,ATL,Shot Area,Above the Break 3,17,64,0.266,17,64,0.266,0.398,0,0.0,0.0,0.941,0.059,0.941,0.059,2,1,2,1,1,1,1,1,4,4,1,1,2,3,49,Above the Break 3
+Luwawu-Cabarrot,ATL,Shot Area,Backcourt,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,7,7,7,4,4,4,7,1,4,4,4,2,7,5,49,Backcourt

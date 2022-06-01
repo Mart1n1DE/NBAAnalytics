@@ -1,0 +1,8 @@
+Name,Team,GROUP_SET,GROUP_VALUE,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,EFG_PCT,BLKA,PCT_AST_2PM,PCT_UAST_2PM,PCT_AST_3PM,PCT_UAST_3PM,PCT_AST_FGM,PCT_UAST_FGM,FGM_RANK,FGA_RANK,FG_PCT_RANK,FG3M_RANK,FG3A_RANK,FG3_PCT_RANK,EFG_PCT_RANK,BLKA_RANK,PCT_AST_2PM_RANK,PCT_UAST_2PM_RANK,PCT_AST_3PM_RANK,PCT_UAST_3PM_RANK,PCT_AST_FGM_RANK,PCT_UAST_FGM_RANK,CFID,CFPARAMS
+Richards,CHA,Shot Area,Restricted Area,50,71,0.704,0,0,0.0,0.704,7,0.8,0.2,0.0,0.0,0.8,0.2,1,1,1,1,1,1,1,7,1,1,1,1,1,1,49,Restricted Area
+Richards,CHA,Shot Area,In The Paint (Non-RA),8,17,0.471,0,0,0.0,0.471,1,0.875,0.125,0.0,0.0,0.875,0.125,2,2,2,1,1,1,2,6,2,3,1,1,2,3,49,In The Paint (Non-RA)
+Richards,CHA,Shot Area,Mid-Range,2,2,1.0,0,0,0.0,1.0,0,0.0,1.0,0.0,0.0,0.0,1.0,3,3,3,1,1,1,3,1,3,2,1,1,3,2,49,Mid-Range
+Richards,CHA,Shot Area,Left Corner 3,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,4,4,4,1,1,1,4,1,3,4,1,1,3,4,49,Left Corner 3
+Richards,CHA,Shot Area,Right Corner 3,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,4,4,4,1,1,1,4,1,3,4,1,1,3,4,49,Right Corner 3
+Richards,CHA,Shot Area,Above the Break 3,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,4,4,4,1,1,1,4,1,3,4,1,1,3,4,49,Above the Break 3
+Richards,CHA,Shot Area,Backcourt,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,4,4,4,1,1,1,4,1,3,4,1,1,3,4,49,Backcourt

@@ -1,0 +1,8 @@
+Name,Team,GROUP_SET,GROUP_VALUE,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,EFG_PCT,BLKA,PCT_AST_2PM,PCT_UAST_2PM,PCT_AST_3PM,PCT_UAST_3PM,PCT_AST_FGM,PCT_UAST_FGM,FGM_RANK,FGA_RANK,FG_PCT_RANK,FG3M_RANK,FG3A_RANK,FG3_PCT_RANK,EFG_PCT_RANK,BLKA_RANK,PCT_AST_2PM_RANK,PCT_UAST_2PM_RANK,PCT_AST_3PM_RANK,PCT_UAST_3PM_RANK,PCT_AST_FGM_RANK,PCT_UAST_FGM_RANK,CFID,CFPARAMS
+Deck,,Shot Area,Restricted Area,3,5,0.6,0,0,0.0,0.6,0,1.0,0.0,0.0,0.0,1.0,0.0,1,1,1,3,4,3,1,1,1,3,3,1,1,3,49,Restricted Area
+Deck,,Shot Area,In The Paint (Non-RA),2,2,1.0,0,0,0.0,1.0,0,0.5,0.5,0.0,0.0,0.5,0.5,2,3,2,3,4,3,2,1,2,1,3,1,2,1,49,In The Paint (Non-RA)
+Deck,,Shot Area,Mid-Range,1,3,0.333,0,0,0.0,0.333,0,0.0,1.0,0.0,0.0,0.0,1.0,3,2,3,3,4,3,5,1,3,1,3,1,5,1,49,Mid-Range
+Deck,,Shot Area,Left Corner 3,1,1,1.0,1,1,1.0,1.5,0,0.0,0.0,1.0,0.0,1.0,0.0,3,5,3,1,2,1,3,1,3,3,1,1,2,3,49,Left Corner 3
+Deck,,Shot Area,Right Corner 3,1,1,1.0,1,1,1.0,1.5,0,0.0,0.0,1.0,0.0,1.0,0.0,3,5,3,1,2,1,3,1,3,3,1,1,2,3,49,Right Corner 3
+Deck,,Shot Area,Above the Break 3,0,2,0.0,0,2,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,6,3,6,3,1,3,6,1,3,3,3,1,5,3,49,Above the Break 3
+Deck,,Shot Area,Backcourt,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,6,7,6,3,4,3,6,1,3,3,3,1,5,3,49,Backcourt

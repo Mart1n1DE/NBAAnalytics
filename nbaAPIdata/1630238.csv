@@ -1,0 +1,8 @@
+Name,Team,GROUP_SET,GROUP_VALUE,FGM,FGA,FG_PCT,FG3M,FG3A,FG3_PCT,EFG_PCT,BLKA,PCT_AST_2PM,PCT_UAST_2PM,PCT_AST_3PM,PCT_UAST_3PM,PCT_AST_FGM,PCT_UAST_FGM,FGM_RANK,FGA_RANK,FG_PCT_RANK,FG3M_RANK,FG3A_RANK,FG3_PCT_RANK,EFG_PCT_RANK,BLKA_RANK,PCT_AST_2PM_RANK,PCT_UAST_2PM_RANK,PCT_AST_3PM_RANK,PCT_UAST_3PM_RANK,PCT_AST_FGM_RANK,PCT_UAST_FGM_RANK,CFID,CFPARAMS
+Fitts,BOS,Shot Area,Restricted Area,3,5,0.6,0,0,0.0,0.6,0,1.0,0.0,0.0,0.0,1.0,0.0,1,1,1,4,4,4,1,1,1,1,4,1,1,1,49,Restricted Area
+Fitts,BOS,Shot Area,In The Paint (Non-RA),0,3,0.0,0,0,0.0,0.0,2,0.0,0.0,0.0,0.0,0.0,0.0,5,4,5,4,4,4,5,7,2,1,4,1,5,1,49,In The Paint (Non-RA)
+Fitts,BOS,Shot Area,Mid-Range,0,1,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5,5,5,4,4,4,5,1,2,1,4,1,5,1,49,Mid-Range
+Fitts,BOS,Shot Area,Left Corner 3,3,5,0.6,3,5,0.6,0.9,0,0.0,0.0,1.0,0.0,1.0,0.0,1,1,2,1,1,1,1,1,2,1,1,1,2,1,49,Left Corner 3
+Fitts,BOS,Shot Area,Right Corner 3,0,0,0.0,0,0,0.0,0.0,0,0.0,0.0,0.0,0.0,0.0,0.0,5,7,5,4,4,4,5,1,2,1,4,1,5,1,49,Right Corner 3
+Fitts,BOS,Shot Area,Above the Break 3,1,4,0.25,1,4,0.25,0.375,0,0.0,0.0,1.0,0.0,1.0,0.0,3,3,3,2,2,2,3,1,2,1,2,1,3,1,49,Above the Break 3
+Fitts,BOS,Shot Area,Backcourt,1,1,1.0,1,1,1.0,1.5,0,0.0,0.0,1.0,0.0,1.0,0.0,3,5,3,2,3,2,3,1,2,1,2,1,3,1,49,Backcourt
