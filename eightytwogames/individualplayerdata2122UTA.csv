@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2122,UTA,Gobert,54%,31.3,19.3,+12.0,+9.6,+2.1,+7.5,+10.5
 2122,UTA,Clarkson,54%,18.8,14.1,+4.7,+8.7,+3.1,+5.7,+5.0
 2122,UTA,Mitchell,57%,27.3,19.7,+7.6,+6.0,+6.4,-0.4,+5.0

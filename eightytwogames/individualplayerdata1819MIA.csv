@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,MIA,Whiteside,43%,29.1,18.8,+10.3,+0.6,-0.8,+1.4,+7.3
 1819,MIA,Adebayo,48%,22.4,18.8,+3.6,+0.6,-1.0,+1.6,+2.9
 1819,MIA,Richardson,64%,17.3,16.4,+0.9,+1.3,-3.0,+4.3,+2.0

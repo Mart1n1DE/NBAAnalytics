@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,HOU,Harris,0%,19.4,7.6,+11.8,+55.1,+2.0,+53.1,+25.6
 1011,HOU,Martin,65%,22.4,13.1,+9.3,+3.1,+0.4,+2.7,+7.1
 1011,HOU,Dragic,9%,18.9,10.2,+8.7,-0.3,+2.4,-2.7,+4.9

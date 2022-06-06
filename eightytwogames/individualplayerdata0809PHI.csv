@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,PHI,Iguodala,83%,20.7,13.0,+7.7,+1.8,-8.2,+10.0,+8.6
 0809,PHI,Young,65%,17.2,14.9,+2.4,+2.7,-4.9,+7.6,+4.4
 0809,PHI,Miller,75%,20.9,18.4,+2.5,+1.8,-5.3,+7.1,+4.3

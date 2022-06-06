@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,WAS,Martin,14%,12.2,12.8,-0.6,+1.7,-8.7,+10.4,+3.1
 1011,WAS,McGee,55%,18.7,17.2,+1.5,-5.0,-10.2,+5.2,+2.7
 1011,WAS,Young,51%,14.9,12.7,+2.2,-6.6,-8.1,+1.5,+1.9

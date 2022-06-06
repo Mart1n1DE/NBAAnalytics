@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,ATL,Johnson,65%,17.1,11.8,+5.4,+1.6,-5.3,+6.9,+5.9
 1011,ATL,Horford,69%,22.5,16.3,+6.1,+0.8,-4.4,+5.2,+5.8
 1011,ATL,Smith,67%,20.6,16.0,+4.6,+1.3,-5.1,+6.4,+5.2

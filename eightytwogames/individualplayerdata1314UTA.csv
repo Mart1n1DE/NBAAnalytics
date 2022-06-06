@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,UTA,Gobert,11%,14.2,11.1,+3.1,-2.8,-7.7,+4.9,+3.7
 1314,UTA,Harris,6%,16.4,16.8,-0.4,+3.0,-7.7,+10.7,+3.3
 1314,UTA,Hayward,71%,17.2,13.9,+3.4,-6.8,-8.0,+1.2,+2.6

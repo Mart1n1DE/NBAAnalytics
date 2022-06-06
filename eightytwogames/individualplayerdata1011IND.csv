@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,IND,Dunleavy,43%,15.6,12.9,+2.7,+2.4,-3.6,+6.0,+3.8
 1011,IND,Granger,70%,18.7,15.2,+3.5,-0.3,-2.9,+2.6,+3.2
 1011,IND,Foster,24%,15.7,13.4,+2.3,+2.7,-2.2,+4.9,+3.2

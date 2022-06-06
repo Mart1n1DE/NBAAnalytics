@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,HOU,Harden,79%,27.7,14.6,+13.1,+1.9,-6.2,+8.1,+11.4
 1516,HOU,McDaniels,6%,11.5,10.9,+0.5,+15.5,-0.8,+16.3,+5.8
 1516,HOU,Goudelock,1%,13.2,12.2,+1.0,+9.6,+0.1,+9.6,+3.8

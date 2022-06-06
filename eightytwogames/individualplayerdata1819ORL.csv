@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,ORL,Vucevic,64%,31.8,22.0,+9.8,+4.2,-5.4,+9.6,+9.7
 1819,ORL,Carter-Williams,6%,19.8,16.3,+3.5,+14.4,-0.1,+14.6,+7.2
 1819,ORL,Gordon,67%,18.8,14.9,+3.9,+2.0,-1.8,+3.8,+3.9

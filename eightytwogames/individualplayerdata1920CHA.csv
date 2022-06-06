@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,CHA,Graham,70%,21.2,19.3,+1.9,-4.1,-13.2,+9.0,+4.3
 1920,CHA,Hernangomez,12%,26.2,25.7,+0.5,-2.4,-7.4,+5.1,+2.0
 1920,CHA,Caleb.Martin,10%,13.4,15.7,-2.3,+0.8,-7.7,+8.4,+1.3

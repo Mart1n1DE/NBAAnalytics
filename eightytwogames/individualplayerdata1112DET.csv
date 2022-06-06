@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,DET,Stuckey,51%,17.6,13.5,+4.1,-1.0,-8.8,+7.8,+5.3
 1112,DET,Monroe,65%,22.9,19.2,+3.7,-4.6,-5.0,+0.4,+2.6
 1112,DET,Prince,65%,12.7,11.1,+1.6,-5.5,-3.3,-2.2,+0.3

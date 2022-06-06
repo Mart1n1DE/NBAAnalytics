@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,POR,McCollum,70%,19.1,14.6,+4.5,+2.7,-3.6,+6.3,+5.1
 1516,POR,Lillard,68%,24.0,19.2,+4.7,+1.7,-0.9,+2.6,+4.0
 1516,POR,Davis,43%,21.0,19.1,+1.9,+0.6,+1.0,-0.4,+1.1

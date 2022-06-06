@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,CLE,Tavares,1%,25.2,1.4,+23.8,+8.0,+3.1,+4.9,+17.5
 1617,CLE,James,70%,31.0,13.5,+17.5,+8.3,-9.0,+17.3,+17.4
 1617,CLE,D.Jones,0%,16.3,4.5,+11.8,+8.0,+3.1,+4.9,+9.5

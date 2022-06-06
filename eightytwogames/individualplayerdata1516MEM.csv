@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,MEM,Stepheson,2%,16.9,5.7,+11.2,-4.8,-2.2,-2.6,+6.6
 1516,MEM,Conley,44%,21.1,17.6,+3.6,+1.9,-5.5,+7.3,+4.8
 1516,MEM,Gasol,45%,19.4,15.1,+4.3,+0.3,-4.3,+4.6,+4.4

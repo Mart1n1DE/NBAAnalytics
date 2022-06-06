@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2122,HOU,Garuba,6%,16.3,21.1,-4.8,+6.8,-9.6,+16.4,+2.3
 2122,HOU,MartinJr.,42%,17.9,17.5,+0.4,-7.0,-9.8,+2.8,+1.2
 2122,HOU,Gordon,42%,15.3,16.7,-1.4,-5.2,-11.1,+5.9,+1.0

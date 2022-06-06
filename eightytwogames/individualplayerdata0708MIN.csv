@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,MIN,McCants,51%,16.6,17.6,-1.1,-2.8,-10.9,+8.1,+2.6
 0708,MIN,Ratliff,5%,13.7,11.2,+2.5,-4.5,-6.9,+2.4,+2.4
 0708,MIN,Gomes,62%,17.7,17.1,+0.6,-5.2,-9.3,+4.2,+2.0

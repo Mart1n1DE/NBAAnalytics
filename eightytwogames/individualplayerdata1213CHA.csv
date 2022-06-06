@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,CHA,Walker,72%,19.5,16.4,+3.1,-7.8,-12.8,+5.0,+3.7
 1213,CHA,Henderson,54%,17.1,15.9,+1.2,-9.1,-9.2,+0.1,+0.8
 1213,CHA,Sessions,42%,18.4,15.6,+2.8,-11.0,-7.9,-3.2,+0.8

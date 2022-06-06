@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,SEA,Dupree,0%,20.6,18.3,+2.3,+11.0,-8.8,+19.7,+9.3
 0708,SEA,Szczerbiak,30%,17.8,14.1,+3.7,-0.6,-12.1,+11.6,+6.8
 0708,SEA,Griffin,2%,10.4,7.8,+2.7,-1.1,-8.9,+7.7,+4.7

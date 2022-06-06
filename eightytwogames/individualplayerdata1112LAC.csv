@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,LAC,Paul,68%,27.9,13.0,+14.9,+7.2,-7.5,+14.8,+14.9
 1112,LAC,Griffin,75%,24.4,16.3,+8.1,+6.6,-9.7,+16.4,+10.8
 1112,LAC,Billups,19%,16.0,13.1,+2.9,+6.3,+1.7,+4.7,+3.5

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,GSW,Davis,81%,22.3,17.9,+4.5,+3.6,-3.8,+7.5,+5.7
 0708,GSW,Ellis,78%,21.2,16.9,+4.3,+3.3,-1.6,+4.9,+4.6
 0708,GSW,Biedrins,53%,21.3,20.9,+0.4,+4.8,-0.7,+5.6,+2.5

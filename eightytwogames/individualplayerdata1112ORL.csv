@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,ORL,Howard,65%,25.5,12.1,+13.4,+4.1,-5.4,+9.5,+12.1
 1112,ORL,Anderson,61%,21.8,14.9,+6.9,+6.7,-8.7,+15.4,+9.7
 1112,ORL,Nelson,53%,14.5,16.9,-2.4,+4.8,-3.8,+8.5,+1.3

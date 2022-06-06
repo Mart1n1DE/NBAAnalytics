@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,TOR,Lowry,57%,26.5,19.8,+6.6,+7.6,-0.3,+7.8,+7.0
 1617,TOR,DeRozan,66%,27.5,15.3,+12.2,+2.7,+7.1,-4.3,+6.7
 1617,TOR,Wright,11%,17.3,13.2,+4.1,+9.7,+3.5,+6.2,+4.8

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,LAL,James,68%,31.5,13.6,+17.8,+9.3,-1.4,+10.7,+15.5
 1920,LAL,Davis,62%,33.4,15.3,+18.1,+5.5,+6.5,-1.0,+11.7
 1920,LAL,Howard,38%,22.7,17.6,+5.1,+6.1,+5.8,+0.3,+3.5

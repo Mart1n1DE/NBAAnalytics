@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,IND,Granger,58%,22.4,14.7,+7.7,-0.8,-6.0,+5.2,+6.7
 0910,IND,Price,22%,15.9,16.0,-0.0,+2.7,-4.6,+7.3,+2.9
 0910,IND,Dunleavy,38%,15.0,12.4,+2.6,-1.7,-3.8,+2.1,+2.4

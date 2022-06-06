@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,UTA,Boozer,72%,24.8,17.4,+7.4,+7.2,+6.1,+1.1,+4.9
 0708,UTA,Kirilenko,56%,19.3,13.9,+5.4,+8.6,+4.6,+4.0,+4.8
 0708,UTA,Williams,78%,23.4,15.5,+7.9,+6.6,+7.7,-1.0,+4.3

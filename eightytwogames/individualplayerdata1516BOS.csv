@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,BOS,Thomas,67%,23.2,13.0,+10.2,+5.4,-1.1,+6.5,+8.9
 1516,BOS,Mickey,1%,16.4,5.7,+10.7,+5.0,+3.2,+1.8,+7.8
 1516,BOS,Crowder,58%,17.4,16.4,+0.9,+4.4,+1.6,+2.8,+1.6

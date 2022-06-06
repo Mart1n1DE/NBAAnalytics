@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,LAL,Bryant,75%,27.2,14.2,+13.0,+10.7,-1.4,+12.1,+12.6
 0809,LAL,Odom,59%,18.6,14.2,+4.3,+14.4,-2.0,+16.4,+9.2
 0809,LAL,Gasol,76%,24.8,16.7,+8.0,+9.1,+2.9,+6.3,+7.3

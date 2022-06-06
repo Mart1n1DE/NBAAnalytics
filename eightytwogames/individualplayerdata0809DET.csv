@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,DET,Acker,1%,17.6,11.7,+5.9,+42.2,-0.7,+42.9,+20.7
 0809,DET,Billups,2%,19.6,19.0,+0.6,+13.1,-0.7,+13.8,+5.9
 0809,DET,Hamilton,57%,18.7,13.6,+5.1,+0.2,-1.4,+1.6,+3.7

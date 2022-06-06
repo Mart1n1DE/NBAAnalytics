@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,SAC,Hield,51%,18.9,17.8,+1.1,-3.7,-10.6,+6.9,+3.0
 1718,SAC,Cooley,2%,23.5,15.4,+8.1,-1.7,-7.2,+5.5,+0.7
 1718,SAC,Sampson,9%,16.2,19.3,-3.1,+0.1,-7.8,+7.9,+0.6

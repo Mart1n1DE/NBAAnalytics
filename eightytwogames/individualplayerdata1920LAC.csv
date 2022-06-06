@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,LAC,Leonard,53%,32.9,12.2,+20.7,+12.7,-0.5,+13.1,+18.2
 1920,LAC,George,41%,25.9,13.7,+12.2,+8.9,+4.9,+4.0,+9.5
 1920,LAC,Harrell,50%,28.0,22.6,+5.4,+7.1,+6.0,+1.0,+3.9

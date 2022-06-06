@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,BOS,White,2%,15.5,8.2,+7.3,+14.0,-0.5,+14.5,+9.7
 1213,BOS,Varnado,0%,13.5,1.5,+11.9,-2.7,-0.2,-2.5,+7.1
 1213,BOS,Pierce,65%,19.8,14.3,+5.5,+2.3,-4.8,+7.1,+6.0

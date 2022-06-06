@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,WAS,Davis,0%,36.9,-13.1,+50.0,+6.0,-4.8,+10.8,+34.3
 0910,WAS,Howard,2%,21.6,12.9,+8.7,+18.0,-5.3,+23.3,+14.5
 0910,WAS,Butler,47%,15.2,13.2,+2.0,-2.3,-6.9,+4.6,+3.0

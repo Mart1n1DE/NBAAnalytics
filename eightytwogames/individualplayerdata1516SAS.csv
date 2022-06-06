@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,SAS,Leonard,60%,29.1,10.8,+18.3,+13.1,+6.8,+6.3,+14.3
 1516,SAS,Marjanovic,13%,31.0,16.4,+14.6,+4.8,+11.5,-6.7,+7.5
 1516,SAS,Aldridge,57%,24.9,14.2,+10.6,+10.9,+10.2,+0.7,+7.3

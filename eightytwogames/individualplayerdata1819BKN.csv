@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,BKN,Russell,61%,23.8,17.3,+6.6,+0.4,-0.9,+1.3,+4.8
 1819,BKN,LeVert,27%,18.2,14.7,+3.5,-0.6,+0.1,-0.7,+2.1
 1819,BKN,Dinwiddie,48%,19.9,16.6,+3.4,-2.1,+1.8,-3.9,+0.9

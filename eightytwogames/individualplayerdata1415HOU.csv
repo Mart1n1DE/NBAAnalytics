@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,HOU,Harden,75%,28.4,13.1,+15.3,+5.4,-2.6,+8.0,+12.8
 1415,HOU,Howard,31%,21.0,16.4,+4.6,+8.5,+1.2,+7.3,+5.5
 1415,HOU,Jones,22%,19.7,16.6,+3.1,+4.3,+3.2,+1.1,+2.4

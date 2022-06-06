@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,LAL,Bryant,70%,25.0,12.0,+13.0,+7.3,+3.2,+4.2,+10.1
 1011,LAL,Gasol,77%,25.0,15.5,+9.5,+8.4,-1.7,+10.1,+9.7
 1011,LAL,T.Johnson,0%,16.9,3.4,+13.4,+3.6,+6.1,-2.5,+8.1

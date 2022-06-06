@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,MIL,Ayon,4%,18.0,16.1,+1.9,+17.3,-2.3,+19.6,+7.8
 1213,MIL,Dunleavy,49%,14.2,11.7,+2.5,+2.3,-5.2,+7.5,+4.1
 1213,MIL,Ellis,78%,16.6,12.9,+3.7,-0.7,-4.2,+3.5,+3.6

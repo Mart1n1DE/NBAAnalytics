@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,GSW,Law,2%,23.7,22.5,+1.2,+16.7,-3.9,+20.7,+9.0
 0910,GSW,Azubuike,6%,22.1,15.4,+6.7,-8.5,-3.3,-5.2,+1.9
 0910,GSW,Morrow,51%,15.8,15.6,+0.1,-1.6,-5.7,+4.1,+1.7

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,CLE,James,77%,34.0,17.2,+16.8,+1.7,-1.6,+3.3,+12.3
 1718,CLE,Korver,40%,15.8,14.3,+1.5,+8.4,-4.0,+12.5,+5.1
 1718,CLE,Love,42%,26.9,21.9,+5.0,+2.2,+0.1,+2.1,+4.0

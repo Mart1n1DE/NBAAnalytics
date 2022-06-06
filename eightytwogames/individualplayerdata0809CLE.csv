@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,CLE,James,77%,35.5,10.4,+25.1,+13.7,-7.3,+21.0,+23.5
 0809,CLE,Ilgauskas,45%,20.4,15.0,+5.4,+13.2,+5.4,+7.8,+6.4
 0809,CLE,West,54%,15.9,14.1,+1.8,+13.6,+3.3,+10.3,+5.2

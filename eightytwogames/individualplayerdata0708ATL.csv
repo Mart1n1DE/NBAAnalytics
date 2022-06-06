@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,ATL,J.Johnson,84%,19.5,14.7,+4.8,-0.2,-10.0,+9.8,+6.8
 0708,ATL,Smith,72%,21.4,16.2,+5.3,-0.6,-4.9,+4.3,+4.9
 0708,ATL,Childress,57%,19.8,15.8,+4.0,-2.7,-0.6,-2.1,+1.5

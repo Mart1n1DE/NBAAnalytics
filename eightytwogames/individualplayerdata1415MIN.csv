@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,MIN,Kilpatrick,2%,10.5,3.6,+6.9,+11.4,-9.1,+20.5,+11.4
 1415,MIN,Garnett,2%,21.2,12.3,+9.0,+6.9,-9.1,+16.0,+11.3
 1415,MIN,Muhammad,22%,21.0,14.7,+6.3,-8.9,-8.7,-0.2,+4.2

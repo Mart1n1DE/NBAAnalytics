@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,ORL,Thomas,1%,5.7,8.3,-2.6,+15.7,-5.5,+21.2,+5.4
 1314,ORL,O'Quinn,30%,17.8,16.4,+1.4,-1.2,-7.1,+5.9,+2.9
 1314,ORL,Vucevic,45%,20.3,19.1,+1.2,-4.7,-5.9,+1.2,+1.2

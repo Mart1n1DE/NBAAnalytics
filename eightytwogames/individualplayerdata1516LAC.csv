@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,LAC,Paul,61%,29.0,16.2,+12.8,+11.0,-6.3,+17.3,+14.3
 1516,LAC,Redick,53%,19.1,11.8,+7.4,+11.7,-4.1,+15.8,+10.2
 1516,LAC,Jordan,66%,23.6,18.3,+5.3,+8.0,-2.9,+10.9,+7.2

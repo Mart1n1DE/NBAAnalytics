@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,NOH,Paul,76%,31.7,17.3,+14.3,+7.7,-2.3,+10.0,+12.6
 0708,NOH,West,72%,22.5,15.5,+7.0,+6.8,+1.1,+5.8,+6.5
 0708,NOH,Stojakovic,68%,17.8,15.1,+2.7,+8.2,-1.1,+9.2,+5.3

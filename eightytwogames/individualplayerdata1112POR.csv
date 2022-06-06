@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,POR,A.Johnson,0%,22.0,-5.8,+27.9,-18.9,-0.6,-18.4,+12.5
 1112,POR,Aldridge,62%,23.1,16.7,+6.4,+3.6,-7.6,+11.1,+7.9
 1112,POR,Wallace,47%,15.9,14.0,+1.9,+4.6,-5.3,+9.9,+4.6

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,MIA,Whiteside,29%,28.9,13.7,+15.3,-2.4,-2.7,+0.3,+10.3
 1415,MIA,Wade,50%,22.5,12.7,+9.8,-1.5,-3.7,+2.3,+7.3
 1415,MIA,Deng,61%,16.7,13.6,+3.1,-0.2,-6.4,+6.1,+4.1

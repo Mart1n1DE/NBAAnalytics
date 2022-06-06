@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,PHO,Nash,70%,24.0,17.5,+6.5,+9.5,-5.2,+14.8,+9.8
 0708,PHO,Stoudemire,68%,31.1,21.8,+9.3,+7.6,-0.0,+7.6,+8.7
 0708,PHO,Marion,43%,23.1,16.4,+6.7,+9.1,+2.1,+7.0,+6.8

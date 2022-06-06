@@ -195,3 +195,4 @@ Read port: 55608
 *** You are running in headless mode.
 1653597362650	Marionette	INFO	Marionette enabled
 out of memory: 0x0000000000000100 bytes requested
+1654543786006	geckodriver	INFO	Listening on 127.0.0.1:62249

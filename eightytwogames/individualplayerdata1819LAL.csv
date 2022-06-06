@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,LAL,James,49%,31.8,13.6,+18.3,+2.9,-6.2,+9.1,+15.2
 1819,LAL,Williams,9%,18.4,17.2,+1.2,+7.3,-2.7,+9.9,+4.1
 1819,LAL,Caruso,13%,17.1,17.0,+0.1,+4.3,-2.7,+6.9,+2.4

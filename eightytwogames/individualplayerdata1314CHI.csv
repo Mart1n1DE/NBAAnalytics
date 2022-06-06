@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,CHI,Noah,71%,21.9,16.1,+5.9,+3.9,-3.2,+7.1,+6.3
 1314,CHI,Butler,65%,14.5,9.9,+4.6,+3.5,-1.3,+4.8,+4.6
 1314,CHI,Gibson,59%,17.0,13.6,+3.5,+2.8,+0.4,+2.5,+3.1

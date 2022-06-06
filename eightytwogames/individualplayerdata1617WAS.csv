@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,WAS,Beal,68%,22.8,14.5,+8.3,+5.9,-6.9,+12.8,+9.8
 1617,WAS,Wall,71%,26.5,16.6,+9.8,+4.2,-4.1,+8.3,+9.3
 1617,WAS,McCullough,0%,2.0,-5.2,+7.3,+0.0,+1.8,-1.8,+4.2

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,DAL,Nowitzki,59%,20.9,15.5,+5.3,+5.2,-8.2,+13.4,+8.0
 1516,DAL,Parsons,45%,17.9,13.1,+4.8,+0.2,-0.7,+0.8,+3.5
 1516,DAL,Lee,11%,26.7,20.0,+6.7,-4.9,+0.3,-5.1,+2.8

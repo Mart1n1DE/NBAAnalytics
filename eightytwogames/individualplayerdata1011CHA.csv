@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,CHA,Wallace,47%,16.1,13.9,+2.2,-0.3,-7.3,+7.0,+3.8
 1011,CHA,Thomas,22%,19.4,15.5,+3.9,-1.2,-4.8,+3.6,+3.8
 1011,CHA,Livingston,32%,15.2,12.8,+2.4,-2.7,-4.6,+1.9,+2.2

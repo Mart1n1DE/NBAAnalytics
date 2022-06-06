@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2021,SAS,Gay,39%,18.9,13.7,+5.1,+4.6,-5.8,+10.4,+6.9
 2021,SAS,DeRozan,59%,27.6,17.4,+10.2,-2.5,-0.7,-1.7,+6.2
 2021,SAS,White,30%,18.7,16.0,+2.8,+4.3,-4.4,+8.6,+4.7

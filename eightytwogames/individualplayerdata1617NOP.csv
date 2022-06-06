@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,NOP,Davis,68%,31.8,13.8,+18.0,+0.9,-8.4,+9.3,+15.1
 1617,NOP,Cousins,14%,27.2,20.8,+6.4,+0.4,-2.5,+2.9,+5.2
 1617,NOP,Holiday,55%,19.5,17.0,+2.4,+0.8,-5.6,+6.4,+3.8

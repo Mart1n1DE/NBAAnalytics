@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,POR,McRoberts,1%,22.9,22.6,+0.3,+25.6,-1.2,+26.8,+10.9
 0708,POR,Roy,70%,21.8,14.8,+7.0,+0.5,-4.4,+4.8,+6.1
 0708,POR,Wafer,2%,5.8,5.4,+0.4,+10.5,-1.2,+11.6,+4.9

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,TOR,Johnson,0%,2.0,-3.6,+5.6,+34.9,+2.8,+32.1,+16.2
 0708,TOR,Bosh,61%,26.6,14.8,+11.8,+7.2,-3.9,+11.0,+11.5
 0708,TOR,Moon,55%,17.0,14.2,+2.8,+5.9,-0.8,+6.7,+4.4

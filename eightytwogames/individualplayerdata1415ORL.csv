@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,ORL,Harris,60%,17.8,14.5,+3.3,-6.0,-5.3,-0.7,+2.0
 1415,ORL,Vucevic,64%,23.2,20.9,+2.3,-5.7,-5.6,-0.1,+1.5
 1415,ORL,Fournier,42%,13.0,13.7,-0.8,-4.2,-6.8,+2.6,+0.3

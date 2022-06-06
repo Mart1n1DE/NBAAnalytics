@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,CHA,Walker,72%,26.7,19.4,+7.2,+0.6,-5.6,+6.2,+6.9
 1819,CHA,Lamb,57%,21.5,17.5,+4.1,+1.1,-4.0,+5.0,+4.4
 1819,CHA,Parker,25%,18.9,16.4,+2.5,+0.9,-1.8,+2.7,+2.6

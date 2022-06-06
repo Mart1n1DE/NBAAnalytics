@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,TOR,Leonard,51%,32.2,15.4,+16.7,+8.5,+3.6,+4.9,+12.8
 1819,TOR,Siakam,64%,23.3,16.2,+7.0,+11.4,-3.2,+14.6,+9.5
 1819,TOR,Green,56%,16.1,15.0,+1.1,+14.1,-3.8,+17.9,+6.7

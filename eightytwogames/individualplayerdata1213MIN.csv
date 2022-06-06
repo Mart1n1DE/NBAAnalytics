@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,MIN,Pekovic,50%,21.6,15.9,+5.7,-0.5,-4.2,+3.7,+5.0
 1213,MIN,Kirilenko,52%,19.0,13.9,+5.0,-0.7,-4.2,+3.5,+4.5
 1213,MIN,Love,16%,18.8,17.3,+1.5,+0.2,-2.8,+3.0,+2.0

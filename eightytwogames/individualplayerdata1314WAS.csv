@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,WAS,Wall,74%,20.5,15.9,+4.6,+3.1,-4.2,+7.4,+5.5
 1314,WAS,Gortat,66%,18.9,16.9,+2.1,+5.3,-6.6,+11.9,+5.3
 1314,WAS,Rice,3%,6.7,2.0,+4.7,+5.8,+1.1,+4.6,+4.7
