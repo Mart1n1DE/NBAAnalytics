@@ -1,0 +1,14 @@
+{
+    "error_files": [
+        {
+            "table": "FiveManUnitStats",
+            "dir": "./eightytwogamesfivemanunit",
+            "file": "fivemanunitdata1718CHA.csv"
+        },
+        {
+            "table": "FiveManUnitStats",
+            "dir": "./eightytwogamesfivemanunit",
+            "file": "fivemanunitdata1718MIN.csv"
+        }
+    ]
+}

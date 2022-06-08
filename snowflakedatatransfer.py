@@ -3,7 +3,18 @@ from snowflake.connector.pandas_tools import write_pandas
 import os
 import pandas as pd 
 from pathlib import Path
+import json
 
+#function created to store files with errors into error log json file
+def write_to_error_log(error_json, jsonfilename):
+    with open(jsonfilename,'r+') as file:
+        file_data = json.load(file)
+        file_data["error_files"].append(error_json)
+        file.seek(0)
+        json.dump(file_data, file, indent = 4)
+
+
+#define file directories and Snowflake table names for data sources
 boxscoregeeks = {
     "dir": "./boxscoregeeks",
     "table": "CommonNbaStats"
@@ -29,7 +40,15 @@ nbaapidata = {
     "table": "NBAAPIshotdetails"
 }
 
-listofdatasources = [boxscoregeeks,eightytwogamesindividualstats,eightytwogamesfivemanunit,eightytwogamesfivemandetails]
+#create error log json file
+json_obj = {}
+json_obj['error_files'] = []
+error_json_file_name = 'error.json'
+with open(error_json_file_name,'w') as f:
+    json.dump(json_obj,f)
+
+#boxscoregeeks,eightytwogamesindividualstats,
+listofdatasources = [eightytwogamesfivemanunit,eightytwogamesfivemandetails]
 
 #connect to snowflake and set cursor
 ctx = snowflake.connector.connect(
@@ -38,26 +57,31 @@ ctx = snowflake.connector.connect(
     account=os.getenv("SNOWFLAKE_ACCOUNT")
     )
 cs = ctx.cursor()
+
+#truncate table and load data into Snowflake table
 try:
-    cs.execute("CREATE OR REPLACE DATABASE nbadatabase")
     cs.execute("USE DATABASE nbadatabase")
     cs.execute("USE SCHEMA public")
-    #cs.execute('CREATE OR REPLACE TABLE "CommonNbaStats" ("Year" integer, "name" string, "team" string, "position" float,"games_played" integer, "minutes" integer, "adjusted_plus_minus_per_48" float, "wins_produced_per_48" float, "wins_produced" float, "points_over_par_per_48" float, "points_per_48" float, "rebounds_per_48" float, "assists_per_48" float)')
-    cs.execute('CREATE OR REPLACE TABLE "IndividualPlayerStats" ("Year" string, "Team" string, "Player" string, "Min" string, "Own" string, "Opp" float, "Production_Net" float, "On" float, "Off" float, "Net" float, "Rating" float)')
-    cs.execute('CREATE OR REPLACE TABLE "FiveManUnitStats" ("Year" string, "Team" string, "#" integer, "Unit" string, "Min" integer, "Off" float, "Def" float, "+/-" integer, "W" integer, "L" integer, "Win%" float)')
-    cs.execute('CREATE OR REPLACE TABLE "FiveManUnitDetails" ("Year" string, "Team" string, "#" integer, "Unit" string, "eFG" float, "eFGA" float, "FTA" integer, "Close" string, "dClose" string, "Reb" string, "T/O" string)')
-    cs.execute('CREATE OR REPLACE TABLE "NBAAPIshotdetails" ("Name" string, "Team" string, "GROUP_SET" string, "GROUP_VALUE" string, "FGM" integer, "FGA" integer, "FG_PCT" float, "FG3M" integer, "FG3A" integer, "FG3_PCT" float, "EFG_PCT" float, "BLKA" integer, "PCT_AST_2PM" float, "PCT_UAST_2PM" float, "PCT_AST_3PM" float, "PCT_UAST_3PM" float, "PCT_AST_FGM" float, "PCT_UAST_FGM" float, "FGM_RANK" integer, "FGA_RANK" integer, "FG_PCT_RANK" integer, "FG3M_RANK" integer, "FG3A_RANK" integer, "FG3_PCT_RANK" integer, "EFG_PCT_RANK" integer ,"BLKA_RANK" integer,"PCT_AST_2PM_RANK" integer,"PCT_UAST_2PM_RANK" integer,"PCT_AST_3PM_RANK" integer,"PCT_UAST_3PM_RANK" integer,"PCT_AST_FGM_RANK" integer,"PCT_UAST_FGM_RANK" integer,"CFID" integer, "CFPARAMS" string)')
 
     for datasource in listofdatasources:
-        if (datasource == boxscoregeeks):
-            continue
+        cs.execute('TRUNCATE TABLE "' + datasource["table"] + '"')
         listoffiles = os.listdir(datasource["dir"])
         output_dir = Path(datasource["dir"])
         
         for file in listoffiles:
             df = pd.read_csv(output_dir / file, header = 0, sep = ",")
-            write_pandas(ctx,df,table_name = datasource["table"])
-        
+            print(file)
+            #try to load data to Snowflake
+            try:
+                write_pandas(ctx,df,table_name = datasource["table"])
+            #if error occurs during loading of csv, then update error json file to correct later
+            except:
+                error_json = {
+                    'table':datasource["table"],
+                    'dir':datasource["dir"],
+                    'file':file
+                }
+                write_to_error_log(error_json,error_json_file_name)
 finally:
     cs.close()
-ctx.close()
+ctx.close() 
