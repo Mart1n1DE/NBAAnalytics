@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,PHO,Nash,62%,22.0,14.3,+7.7,+5.5,-11.5,+17.0,+10.8
 1011,PHO,Gortat,41%,20.2,15.3,+4.9,+0.3,-1.7,+2.0,+3.9
 1011,PHO,Hill,60%,15.5,14.7,+0.8,+1.0,-3.7,+4.7,+2.1

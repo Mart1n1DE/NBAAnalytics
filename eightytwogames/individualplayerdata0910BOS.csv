@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,BOS,Garnett,52%,22.2,14.6,+7.6,+7.2,-0.3,+7.5,+7.5
 0910,BOS,R.Allen,71%,17.1,14.4,+2.7,+7.1,-4.9,+12.0,+6.4
 0910,BOS,Rondo,75%,21.6,16.6,+5.0,+4.9,-0.2,+5.1,+5.1

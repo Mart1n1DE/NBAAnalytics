@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,LAC,Paul,59%,28.3,16.1,+12.2,+8.9,+2.9,+6.0,+10.1
 1213,LAC,Crawford,57%,17.3,9.8,+7.6,+7.8,+4.6,+3.2,+6.1
 1213,LAC,Griffin,66%,24.0,16.6,+7.4,+7.1,+5.1,+2.1,+5.6

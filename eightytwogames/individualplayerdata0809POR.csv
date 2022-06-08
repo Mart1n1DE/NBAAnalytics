@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,POR,Roy,73%,26.7,13.4,+13.3,+8.3,-3.0,+11.4,+12.5
 0809,POR,Aldridge,76%,21.4,16.1,+5.3,+7.7,-2.3,+10.0,+7.2
 0809,POR,Blake,55%,16.2,16.2,-0.0,+8.6,+1.2,+7.4,+2.9

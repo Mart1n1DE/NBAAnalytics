@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,PHO,Nash,62%,20.9,14.8,+6.1,+4.3,-7.7,+12.0,+8.1
 1112,PHO,Gortat,67%,22.3,16.3,+6.0,+2.0,-4.7,+6.7,+6.3
 1112,PHO,Dudley,64%,16.0,12.6,+3.4,+2.1,-4.3,+6.4,+4.4

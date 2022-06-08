@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,POR,Randolph,0%,18.0,-11.6,+29.7,+7.7,+3.3,+4.5,+19.6
 0910,POR,Oden,13%,25.9,12.5,+13.3,+7.5,+2.7,+4.8,+9.9
 0910,POR,Roy,61%,23.9,14.5,+9.4,+4.9,+0.7,+4.3,+7.4

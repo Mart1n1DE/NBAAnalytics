@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,DAL,Nowitzki,77%,25.9,15.2,+10.7,+3.8,-4.2,+8.0,+9.6
 0809,DAL,Howard,42%,19.1,14.4,+4.7,+6.1,-1.0,+7.1,+5.7
 0809,DAL,Kidd,73%,19.0,20.3,-1.4,+5.3,-7.1,+12.4,+4.1

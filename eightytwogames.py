@@ -33,6 +33,7 @@ for year in years:
         tabledata.insert(0,"DummyHeader",teamcolumn)
         yearcolumn = ["Year"] + [year]*(len((tabledata.index))-1)
         tabledata.insert(0,"DummyHeader2",yearcolumn) 
+        tabledata.at[1,4] = 'Production_Net'
         #save csv without index header and index column 
         tabledata.to_csv(output_dir / output_file,index = False,header = False) 
 

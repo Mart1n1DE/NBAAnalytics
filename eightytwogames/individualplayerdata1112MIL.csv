@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,MIL,Dunleavy,46%,17.0,11.7,+5.2,+5.7,-4.2,+9.9,+6.8
 1112,MIL,Udrih,34%,13.2,11.4,+1.8,+9.6,-4.5,+14.1,+5.9
 1112,MIL,Sanders,20%,13.8,12.4,+1.4,+7.6,-1.6,+9.2,+4.0

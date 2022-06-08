@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,DEN,Gallinari,36%,17.6,13.5,+4.1,+0.6,-5.8,+6.4,+4.9
 1415,DEN,Lawson,67%,19.4,17.0,+2.4,-0.6,-9.5,+8.9,+4.5
 1415,DEN,Barton,17%,16.7,12.5,+4.2,-1.8,-3.9,+2.0,+3.5

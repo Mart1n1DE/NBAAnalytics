@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,NYK,Jordan,3%,19.1,14.1,+5.0,+11.1,+2.9,+8.2,+6.1
 1112,NYK,Anthony,59%,21.1,12.1,+9.0,+2.8,+3.8,-1.0,+5.7
 1112,NYK,Novak,32%,16.2,12.6,+3.6,+8.3,+0.8,+7.5,+4.9

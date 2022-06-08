@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,CHI,Khryapa,3%,11.3,2.8,+8.5,+6.9,-3.3,+10.2,+9.2
 0708,CHI,Noah,39%,17.3,16.4,+0.9,-0.8,-4.5,+3.7,+2.0
 0708,CHI,Deng,54%,19.2,15.8,+3.4,-3.5,-2.5,-1.0,+1.6

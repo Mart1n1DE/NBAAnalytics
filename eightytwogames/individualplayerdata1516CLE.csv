@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,CLE,James,68%,30.3,10.7,+19.6,+10.9,-4.8,+15.7,+18.3
 1516,CLE,Love,61%,21.2,15.3,+5.9,+8.4,+2.2,+6.2,+6.0
 1516,CLE,Irving,42%,21.4,18.5,+2.9,+5.9,+6.0,-0.1,+1.9

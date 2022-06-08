@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,IND,Fesenko,1%,32.0,14.6,+17.4,+19.8,+3.2,+16.6,+17.1
 1112,IND,Granger,65%,18.6,12.4,+6.2,+6.9,-3.3,+10.1,+7.5
 1112,IND,Hibbert,61%,20.0,15.0,+5.0,+5.3,+0.1,+5.2,+5.1

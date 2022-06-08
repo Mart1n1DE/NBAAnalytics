@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,HOU,Yao,65%,25.3,16.2,+9.1,+8.3,-4.2,+12.5,+10.5
 0809,HOU,Artest,62%,17.5,12.2,+5.4,+6.2,+0.3,+5.9,+5.6
 0809,HOU,McGrady,30%,18.2,14.0,+4.2,+2.8,+4.5,-1.7,+1.9

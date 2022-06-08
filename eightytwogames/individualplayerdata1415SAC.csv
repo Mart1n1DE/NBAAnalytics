@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,SAC,Cousins,51%,27.0,17.4,+9.5,+1.4,-8.9,+10.3,+9.8
 1415,SAC,Stockton,1%,11.3,12.2,-0.9,+33.4,-4.0,+37.4,+9.4
 1415,SAC,Q.Miller,2%,11.6,4.2,+7.4,+6.3,-3.8,+10.1,+8.3

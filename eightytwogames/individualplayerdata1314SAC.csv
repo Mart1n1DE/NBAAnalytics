@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,SAC,Cousins,58%,28.3,18.1,+10.2,-0.4,-6.3,+6.0,+8.8
 1314,SAC,Thomas,63%,21.7,15.5,+6.3,+0.6,-8.8,+9.3,+7.3
 1314,SAC,Gay,48%,20.9,14.9,+6.0,-1.5,-4.1,+2.6,+4.9

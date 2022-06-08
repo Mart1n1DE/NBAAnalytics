@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,LAL,Williams,36%,27.4,16.2,+11.2,+0.9,-11.2,+12.1,+11.5
 1617,LAL,Ennis,10%,16.6,19.0,-2.3,+6.5,-8.4,+14.9,+3.4
 1617,LAL,Nwaba,10%,13.8,14.1,-0.3,+1.4,-7.8,+9.3,+2.9

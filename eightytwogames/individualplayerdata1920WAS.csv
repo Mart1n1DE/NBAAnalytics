@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,WAS,Beal,59%,28.2,20.2,+8.0,-4.8,-4.7,-0.1,+5.3
 1920,WAS,Bertans,46%,19.0,16.6,+2.3,-0.4,-8.4,+8.0,+4.2
 1920,WAS,McRae,19%,18.6,16.9,+1.7,-3.7,-5.0,+1.3,+1.6

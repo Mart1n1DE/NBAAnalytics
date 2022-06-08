@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,GSW,Durant,52%,31.9,12.2,+19.7,+16.5,+6.2,+10.3,+16.6
 1617,GSW,Curry,67%,28.2,18.2,+10.0,+18.5,-2.2,+20.7,+13.6
 1617,GSW,McGee,19%,28.8,18.3,+10.5,+20.3,+9.6,+10.7,+10.5

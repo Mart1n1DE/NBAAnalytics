@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,POR,Aldridge,81%,22.8,15.6,+7.2,+4.2,-10.2,+14.4,+9.6
 1011,POR,Miller,67%,18.9,14.8,+4.1,+4.7,-4.8,+9.5,+5.9
 1011,POR,Wallace,21%,20.4,15.6,+4.8,+7.5,-0.0,+7.5,+5.7

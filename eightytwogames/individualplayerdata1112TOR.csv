@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,TOR,Bargnani,32%,17.9,14.3,+3.6,-2.0,-3.9,+1.8,+3.0
 1112,TOR,Alabi,4%,14.8,13.5,+1.4,+1.2,-3.5,+4.6,+2.5
 1112,TOR,A.Johnson,49%,15.2,15.5,-0.3,+0.4,-6.8,+7.2,+2.2

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,DET,Meeks,1%,14.5,-2.0,+16.5,+10.1,+0.5,+9.6,+14.2
 1516,DET,Harris,23%,20.1,12.4,+7.6,+2.7,+0.0,+2.7,+6.0
 1516,DET,Jackson,61%,21.0,16.1,+4.9,+2.6,-2.4,+5.0,+4.9

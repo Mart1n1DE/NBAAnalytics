@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,BOS,Tatum,65%,24.9,13.7,+11.2,+10.8,-1.8,+12.7,+11.7
 1920,BOS,Kanter,28%,27.0,17.9,+9.1,+10.5,+4.8,+5.7,+7.9
 1920,BOS,Hayward,50%,22.2,15.1,+7.2,+9.4,+3.4,+6.0,+6.8

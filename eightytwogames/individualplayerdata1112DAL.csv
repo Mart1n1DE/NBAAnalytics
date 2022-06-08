@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,DAL,Nowitzki,65%,21.8,14.4,+7.4,+6.0,-8.4,+14.4,+9.8
 1112,DAL,Carter,48%,13.5,11.4,+2.1,+6.8,-4.5,+11.4,+5.2
 1112,DAL,Wright,25%,22.6,18.3,+4.4,+0.7,+1.0,-0.3,+2.8

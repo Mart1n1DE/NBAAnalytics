@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,UTA,Williams,71%,23.0,15.4,+7.7,+7.3,+0.4,+6.9,+7.4
 0910,UTA,Kirilenko,43%,20.4,12.1,+8.3,+6.8,+4.2,+2.6,+6.0
 0910,UTA,Korver,24%,15.6,13.9,+1.7,+9.7,+3.9,+5.8,+3.4

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,DEN,Lawson,56%,20.4,15.8,+4.6,-1.1,-3.5,+2.5,+3.9
 1314,DEN,Robinson,22%,16.4,15.2,+1.2,+4.5,-4.0,+8.5,+3.6
 1314,DEN,A.Miller,14%,14.5,12.9,+1.6,+0.8,-2.6,+3.4,+2.2

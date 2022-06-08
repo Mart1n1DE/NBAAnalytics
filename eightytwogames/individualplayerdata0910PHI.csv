@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,PHI,Elson,0%,6.8,13.3,-6.5,+23.3,-3.9,+27.2,+7.0
 0910,PHI,Iguodala,81%,20.0,14.6,+5.4,-3.8,-4.1,+0.2,+3.3
 0910,PHI,Williams,48%,20.4,17.2,+3.2,-2.6,-5.1,+2.5,+2.9

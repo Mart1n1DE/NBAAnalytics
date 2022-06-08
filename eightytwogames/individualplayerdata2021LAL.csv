@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2021,LAL,James,43%,31.3,12.9,+18.4,+9.5,-2.2,+11.6,+16.1
 2021,LAL,Davis,33%,28.0,14.6,+13.4,+4.8,+1.8,+3.0,+9.9
 2021,LAL,Harrell,45%,28.3,21.2,+7.0,+1.3,+4.1,-2.7,+3.8

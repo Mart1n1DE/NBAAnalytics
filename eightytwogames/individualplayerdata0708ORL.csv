@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,ORL,Howard,78%,25.8,13.3,+12.5,+7.4,-1.6,+9.0,+11.1
 0708,ORL,Turkoglu,77%,20.2,14.6,+5.6,+7.0,+0.3,+6.8,+6.1
 0708,ORL,Gortat,1%,22.5,9.6,+12.9,+0.0,+5.5,-5.5,+5.5

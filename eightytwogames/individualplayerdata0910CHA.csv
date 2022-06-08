@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,CHA,Bell,4%,14.6,10.1,+4.5,+12.2,+1.0,+11.2,+7.2
 0910,CHA,Wallace,78%,20.7,14.0,+6.7,+2.1,-0.8,+2.8,+5.2
 0910,CHA,Jackson,71%,17.7,14.4,+3.3,+2.4,-1.0,+3.4,+3.4

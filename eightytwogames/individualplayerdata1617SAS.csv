@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1617,SAS,Leonard,62%,31.5,12.2,+19.3,+8.4,+5.0,+3.4,+14.0
 1617,SAS,Lee,37%,21.2,16.0,+5.2,+10.2,+5.3,+4.9,+5.1
 1617,SAS,Aldridge,59%,21.3,14.5,+6.8,+5.6,+9.4,-3.8,+3.3

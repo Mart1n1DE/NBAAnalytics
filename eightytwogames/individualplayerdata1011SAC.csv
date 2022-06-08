@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,SAC,Evans,53%,14.9,12.9,+2.0,-4.5,-6.2,+1.7,+1.9
 1011,SAC,Thornton,26%,19.0,17.2,+1.8,-6.9,-4.7,-2.2,+0.5
 1011,SAC,Garcia,35%,14.2,14.7,-0.6,-4.1,-5.9,+1.9,+0.2

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,SAS,Mensah-Bonsu,0%,39.9,19.8,+20.1,+43.6,+3.5,+40.0,+28.1
 0809,SAS,Parker,62%,25.9,16.8,+9.1,+6.2,-0.3,+6.5,+8.1
 0809,SAS,Ahearn,0%,14.7,12.8,+1.9,+20.4,+3.6,+16.8,+7.8

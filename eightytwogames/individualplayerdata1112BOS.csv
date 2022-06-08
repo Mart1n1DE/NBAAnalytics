@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,BOS,Williams,1%,19.8,8.5,+11.3,+23.8,+2.2,+21.6,+14.7
 1112,BOS,Garnett,58%,21.2,14.5,+6.8,+6.9,-3.7,+10.5,+8.0
 1112,BOS,Rondo,61%,18.0,10.7,+7.2,+4.8,-1.1,+5.9,+6.8

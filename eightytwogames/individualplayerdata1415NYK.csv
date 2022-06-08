@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,NYK,Anthony,36%,22.5,12.1,+10.4,-3.6,-12.4,+8.8,+9.9
 1415,NYK,Stoudemire,22%,20.9,17.8,+3.0,-1.9,-11.3,+9.4,+5.1
 1415,NYK,Shved,11%,21.7,17.9,+3.8,-4.0,-9.9,+5.9,+4.5

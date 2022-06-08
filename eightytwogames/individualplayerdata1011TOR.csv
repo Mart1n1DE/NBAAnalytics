@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,TOR,Stojakovic,1%,36.2,23.9,+12.4,+10.7,-6.3,+17.1,+13.9
 1011,TOR,Andersen,4%,14.8,10.7,+4.2,+11.2,-6.9,+18.2,+8.8
 1011,TOR,Banks,1%,7.3,11.2,-3.9,+19.9,-6.4,+26.3,+6.1

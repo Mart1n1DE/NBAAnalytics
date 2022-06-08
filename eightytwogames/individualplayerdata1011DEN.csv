@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,DEN,Anthony,45%,22.4,12.3,+10.1,+4.2,+5.2,-1.1,+6.4
 1011,DEN,Felton,17%,15.6,11.8,+3.8,+11.9,+3.3,+8.6,+5.4
 1011,DEN,Gallinari,11%,17.1,10.9,+6.1,+5.5,+4.7,+0.9,+4.4

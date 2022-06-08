@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,PHO,Bledsoe,27%,21.9,14.8,+7.0,-2.2,-8.3,+6.1,+6.7
 1516,PHO,Leuer,32%,18.2,17.0,+1.1,-2.5,-8.6,+6.1,+2.8
 1516,PHO,McRae,2%,15.3,19.9,-4.6,+8.7,-7.0,+15.7,+2.2

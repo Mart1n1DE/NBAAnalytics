@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,IND,G.Hill,32%,22.7,14.6,+8.1,+6.1,-2.5,+8.5,+8.3
 1415,IND,George,2%,13.2,6.1,+7.1,+7.9,+0.1,+7.8,+7.3
 1415,IND,Price,5%,17.7,11.6,+6.0,+0.7,+0.3,+0.5,+4.2

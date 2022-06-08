@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,ORL,Gordon,49%,19.6,15.3,+4.3,-2.4,-7.3,+5.0,+4.5
 1718,ORL,Birch,15%,19.3,18.9,+0.4,+0.7,-5.9,+6.5,+2.5
 1718,ORL,Vucevic,43%,23.6,23.6,-0.0,-0.9,-7.9,+7.0,+2.3

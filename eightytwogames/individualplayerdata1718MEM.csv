@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,MEM,Evans,41%,25.0,15.2,+9.8,+0.7,-11.2,+11.9,+10.5
 1718,MEM,Wright,9%,22.7,19.2,+3.6,+4.7,-7.5,+12.2,+6.4
 1718,MEM,Gasol,61%,20.8,16.5,+4.3,-6.4,-6.2,-0.2,+2.8

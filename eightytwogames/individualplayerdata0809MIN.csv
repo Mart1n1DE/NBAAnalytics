@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,MIN,Booth,0%,0.0,-64.2,+64.2,+144.0,-4.9,+148.9,+98.1
 0809,MIN,Jefferson,46%,25.7,19.4,+6.3,-2.8,-6.7,+3.9,+5.4
 0809,MIN,Williams,5%,18.1,19.0,-0.9,+4.2,-5.4,+9.6,+3.3

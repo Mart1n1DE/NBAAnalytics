@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,GSW,Mulder,6%,10.9,13.6,-2.6,+5.6,-9.8,+15.4,+3.4
 1920,GSW,Burks,44%,22.1,19.0,+3.1,-9.0,-8.7,-0.4,+1.9
 1920,GSW,Lee,45%,17.7,20.1,-2.4,-4.3,-12.5,+8.2,+1.1

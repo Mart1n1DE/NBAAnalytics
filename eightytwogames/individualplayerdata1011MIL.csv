@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,MIL,Boykins,22%,18.5,13.5,+5.0,+2.3,-1.7,+4.1,+4.7
 1011,MIL,Bogut,58%,18.0,12.9,+5.2,+0.1,-2.2,+2.3,+4.2
 1011,MIL,Redd,3%,10.0,8.6,+1.4,+3.6,-1.0,+4.6,+2.4

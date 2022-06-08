@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1011,MEM,Randolph,68%,24.1,15.4,+8.7,+4.6,-2.6,+7.1,+8.2
 1011,MEM,Haddadi,4%,21.1,17.3,+3.9,+13.7,+1.8,+11.9,+6.5
 1011,MEM,Gay,54%,18.8,11.2,+7.6,+3.0,+1.5,+1.6,+5.6

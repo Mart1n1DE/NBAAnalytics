@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,BOS,Irving,49%,29.2,15.4,+13.9,+6.5,+0.9,+5.6,+11.1
 1718,BOS,Horford,58%,20.9,16.3,+4.6,+7.5,-1.6,+9.1,+6.1
 1718,BOS,Tatum,62%,18.0,13.6,+4.4,+6.9,-1.7,+8.6,+5.8

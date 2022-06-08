@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1516,IND,George,71%,22.9,14.2,+8.7,+3.1,-1.7,+4.8,+7.4
 1516,IND,Stuckey,32%,13.7,10.1,+3.7,+0.4,+2.3,-1.9,+1.8
 1516,IND,Budinger,18%,12.3,10.5,+1.8,+3.0,+1.4,+1.6,+1.7

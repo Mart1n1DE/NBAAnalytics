@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,UTA,Jefferson,64%,23.1,16.7,+6.5,+3.6,-4.8,+8.4,+7.1
 1112,UTA,Millsap,65%,22.3,17.4,+4.9,+4.5,-6.5,+11.0,+6.9
 1112,UTA,Hayward,62%,15.6,10.1,+5.5,+1.2,-0.4,+1.7,+4.2

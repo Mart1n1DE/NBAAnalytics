@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,NOP,Davis,62%,33.3,14.2,+19.0,+5.2,-6.4,+11.6,+16.6
 1415,NOP,Douglas,4%,11.9,6.2,+5.7,+1.9,+0.7,+1.2,+4.2
 1415,NOP,Evans,68%,18.7,15.9,+2.8,+3.0,-3.8,+6.8,+4.1

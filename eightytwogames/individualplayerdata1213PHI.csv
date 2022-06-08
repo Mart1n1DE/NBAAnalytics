@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1213,PHI,T.Young,67%,19.5,16.6,+2.9,-0.6,-8.7,+8.1,+4.6
 1213,PHI,Holiday,74%,17.2,16.6,+0.5,-2.1,-7.0,+4.9,+2.0
 1213,PHI,Wright,45%,16.9,14.9,+2.0,-4.8,-2.1,-2.6,+0.5

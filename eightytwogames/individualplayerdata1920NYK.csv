@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,NYK,Robinson,44%,30.2,21.4,+8.8,-3.6,-8.8,+5.2,+7.6
 1920,NYK,MorrisSr.,44%,20.2,18.9,+1.2,-4.3,-8.2,+4.0,+2.1
 1920,NYK,Randle,65%,23.4,22.5,+0.9,-5.7,-8.0,+2.2,+1.4

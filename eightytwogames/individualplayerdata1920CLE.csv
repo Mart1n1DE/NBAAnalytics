@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1920,CLE,Clarkson,21%,24.7,14.8,+10.0,-7.0,-8.2,+1.2,+7.0
 1920,CLE,NanceJr.,47%,23.3,19.0,+4.4,-5.1,-10.5,+5.4,+4.7
 1920,CLE,Love,57%,24.7,22.2,+2.5,-7.4,-8.8,+1.4,+2.2

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1415,TOR,Williams,51%,20.8,14.1,+6.6,+7.1,-1.1,+8.2,+7.2
 1415,TOR,DeRozan,53%,18.2,13.5,+4.7,+3.0,+3.1,-0.1,+3.1
 1415,TOR,Lowry,61%,20.3,18.2,+2.1,+4.0,+1.6,+2.4,+2.2

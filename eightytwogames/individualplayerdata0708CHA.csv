@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0708,CHA,Richardson,79%,20.9,16.7,+4.2,-3.5,-7.7,+4.2,+4.2
 0708,CHA,Wallace,60%,19.9,18.1,+1.7,-2.3,-7.4,+5.0,+3.1
 0708,CHA,Felton,75%,15.7,15.6,+0.0,-3.3,-7.2,+3.9,+1.6

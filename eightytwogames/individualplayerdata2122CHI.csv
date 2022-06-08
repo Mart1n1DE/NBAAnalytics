@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2122,CHI,DeRozan,70%,28.9,18.1,+10.8,+1.4,-4.4,+5.8,+9.1
 2122,CHI,LaVine,59%,24.9,16.4,+8.5,-0.4,-0.2,-0.2,+5.6
 2122,CHI,Ball,30%,17.9,17.1,+0.9,+3.3,-1.9,+5.2,+2.3

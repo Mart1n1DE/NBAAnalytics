@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,NOH,Gordon,10%,19.2,12.7,+6.4,+5.3,-4.7,+10.0,+7.6
 1112,NOH,Vasquez,53%,14.4,12.3,+2.1,-0.2,-7.8,+7.6,+4.0
 1112,NOH,Landry,31%,18.8,14.2,+4.6,-3.3,-3.9,+0.6,+3.3

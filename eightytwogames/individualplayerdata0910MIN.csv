@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,MIN,Hart,0%,10.8,-20.1,+30.9,+48.3,-9.6,+57.9,+41.7
 0910,MIN,Love,43%,23.3,19.3,+4.0,-6.3,-12.0,+5.7,+4.7
 0910,MIN,Sessions,44%,14.5,17.2,-2.7,-6.0,-12.4,+6.4,+0.9

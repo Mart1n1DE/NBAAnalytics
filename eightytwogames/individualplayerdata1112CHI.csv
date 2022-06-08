@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1112,CHI,Rose,43%,23.1,11.9,+11.2,+10.1,+6.6,+3.5,+8.6
 1112,CHI,Lucas,23%,16.0,9.8,+6.1,+14.6,+6.2,+8.3,+6.9
 1112,CHI,James,4%,13.3,12.5,+0.8,+25.5,+7.4,+18.1,+6.6

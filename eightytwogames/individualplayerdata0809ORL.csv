@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,ORL,Howard,72%,28.6,14.2,+14.4,+9.3,+0.2,+9.0,+12.3
 0809,ORL,Nelson,33%,23.2,16.7,+6.4,+13.4,+3.3,+10.1,+7.9
 0809,ORL,Lewis,72%,18.9,14.2,+4.7,+9.8,-1.5,+11.2,+7.3

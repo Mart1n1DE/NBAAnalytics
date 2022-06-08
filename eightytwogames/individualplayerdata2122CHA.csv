@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 2122,CHA,Bridges,71%,22.5,17.3,+5.2,+2.5,-4.7,+7.1,+5.8
 2122,CHA,Ball,61%,24.6,18.3,+6.3,+2.0,-2.0,+3.9,+5.5
 2122,CHA,Rozier,62%,21.9,17.1,+4.8,+1.5,-1.2,+2.7,+4.1

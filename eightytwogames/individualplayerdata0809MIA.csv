@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,MIA,Wade,76%,33.5,12.3,+21.1,+3.3,-9.7,+13.1,+17.9
 0809,MIA,O'Neal,20%,17.2,16.9,+0.3,+1.0,+0.1,+0.9,+0.6
 0809,MIA,Marion,38%,17.5,17.1,+0.4,+0.5,+0.1,+0.5,+0.4

@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1718,CHI,Mirotic,16%,26.1,19.6,+6.5,+5.2,-9.4,+14.6,+9.2
 1718,CHI,Portis,41%,23.0,19.2,+3.8,-2.4,-10.4,+8.0,+5.2
 1718,CHI,Vonleh,10%,16.7,15.6,+1.0,-2.9,-7.6,+4.6,+2.2

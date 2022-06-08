@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0809,BOS,Giddens,0%,30.3,0.0,+30.3,+6.3,+7.4,-1.1,+17.7
 0809,BOS,Garnett,45%,23.9,13.5,+10.4,+12.8,+3.1,+9.8,+10.1
 0809,BOS,R.Allen,72%,19.2,12.7,+6.6,+10.5,-0.6,+11.1,+8.4

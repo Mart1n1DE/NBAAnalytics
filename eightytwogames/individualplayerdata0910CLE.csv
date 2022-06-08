@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 0910,CLE,C.Jackson,0%,-7.1,-12.5,+5.4,+48.3,+6.4,+41.9,+20.0
 0910,CLE,James,75%,35.0,12.9,+22.1,+10.5,-5.5,+16.0,+19.7
 0910,CLE,Varejao,55%,18.0,15.2,+2.8,+11.4,+0.6,+10.8,+6.0

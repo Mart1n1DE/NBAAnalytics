@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1819,SAS,Aldridge,68%,28.3,19.3,+9.0,+1.7,+1.8,-0.1,+5.9
 1819,SAS,Gay,47%,22.0,16.5,+5.5,+4.3,-0.5,+4.8,+5.2
 1819,SAS,DeRozan,68%,24.4,16.6,+7.9,+0.2,+4.9,-4.8,+3.7

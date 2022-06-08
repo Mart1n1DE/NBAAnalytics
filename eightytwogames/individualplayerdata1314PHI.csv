@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,PHI,Ware,3%,13.7,10.7,+3.0,-2.1,-10.6,+8.5,+4.9
 1314,PHI,Brown,6%,7.3,11.0,-3.6,+0.4,-11.0,+11.4,+1.4
 1314,PHI,Turner,48%,13.8,15.0,-1.2,-8.2,-12.3,+4.2,+0.6

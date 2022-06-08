@@ -1,4 +1,4 @@
-Year,Team,Player,Min,Own,Opp,Net,On,Off,Net,Rating
+Year,Team,Player,Min,Own,Opp,Production_Net,On,Off,Net,Rating
 1314,NOH,Southerland,1%,18.9,11.5,+7.4,+17.5,-2.8,+20.3,+11.7
 1314,NOH,Davis,59%,28.8,15.7,+13.1,-2.3,-3.2,+0.9,+9.0
 1314,NOH,Childress,1%,2.6,5.0,-2.4,+22.2,-2.8,+25.0,+6.7
