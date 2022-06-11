@@ -48,7 +48,7 @@ with open(error_json_file_name,'w') as f:
     json.dump(json_obj,f)
 
 #boxscoregeeks,eightytwogamesindividualstats,
-listofdatasources = [eightytwogamesfivemanunit,eightytwogamesfivemandetails]
+listofdatasources = [boxscoregeeks,eightytwogamesindividualstats,eightytwogamesfivemanunit,eightytwogamesfivemandetails,nbaapidata]
 
 #connect to snowflake and set cursor
 ctx = snowflake.connector.connect(

@@ -1,14 +1,29 @@
 {
     "error_files": [
         {
-            "table": "FiveManUnitStats",
-            "dir": "./eightytwogamesfivemanunit",
-            "file": "fivemanunitdata1718CHA.csv"
+            "table": "NBAAPIshotdetails",
+            "dir": "./nbaAPIdata",
+            "file": "1628407.csv"
         },
         {
-            "table": "FiveManUnitStats",
-            "dir": "./eightytwogamesfivemanunit",
-            "file": "fivemanunitdata1718MIN.csv"
+            "table": "NBAAPIshotdetails",
+            "dir": "./nbaAPIdata",
+            "file": "1630189.csv"
+        },
+        {
+            "table": "NBAAPIshotdetails",
+            "dir": "./nbaAPIdata",
+            "file": "1630247.csv"
+        },
+        {
+            "table": "NBAAPIshotdetails",
+            "dir": "./nbaAPIdata",
+            "file": "1630642.csv"
+        },
+        {
+            "table": "NBAAPIshotdetails",
+            "dir": "./nbaAPIdata",
+            "file": "202329.csv"
         }
     ]
 }
