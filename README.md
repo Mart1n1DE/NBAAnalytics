@@ -2,7 +2,7 @@
 
 ## Description
 
-This project allowed me to scrape data from the web, load it into Snowflake libraries, then build aggregations and visualizations on top of the data. For the process in building this project please visit https://martinhleung.com/portfolios#nbaproject. An example dashboard:
+This project allowed me to scrape data from the web, load it into a Snowflake database, then build aggregations and visualizations on top of the data. For the process in building this project please visit https://martinhleung.com/portfolios#nbaproject. An example dashboard:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://martinhleung.com/wp-content/uploads/2022/06/BI-screenshot-1.png">
