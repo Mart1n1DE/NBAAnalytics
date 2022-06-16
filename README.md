@@ -14,7 +14,7 @@ This project allowed me to scrape data from the web, load it into a Snowflake da
 1. Create a Python environment and install from requirements.txt.
 2. Create a Snowflake account and update environment variables with relevant user, password,and account data. 
 3. Run the python scripts in the order of boxscoregeeks.py,eightytwogames.py,eightytwogamesfivemanlineup.py,snowflakeDBcreation.py,snowflakedatatransfer.py
-4. Check error.json for csvs with errors that you would like to use then run snowflakedatatransfer_forcorrectedfiles.py
+4. Check error.json for csvs with errors that you would like to use. Correct csvs as necessary then run snowflakedatatransfer_forcorrectedfiles.py
 5. Connect visualization tool to Snowflake database 
 
 ### Heroku Usage
